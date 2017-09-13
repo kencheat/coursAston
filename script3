@@ -1,0 +1,8 @@
+#!/usr/bin/php
+<?php
+
+echo "Hi";
+
+foreach (['toto','chuck','ben'] as $name) {
+	echo $name . "\n";
+}
