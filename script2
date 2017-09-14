@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cat /home/ben/.bash_history > /home/ben/test/myHistory.log
+
+

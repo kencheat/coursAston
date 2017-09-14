@@ -1,0 +1,330 @@
+ls
+cd..
+ls
+cd Document
+sudo apt-get install terminator
+terùinator
+terminator
+sudo apt update
+sudo apt upgrade -y
+ls -l
+cd /
+ls
+ls -l
+cd /etc/systemd/system
+ls
+cd -
+cd /
+ls -l -a
+ls -a
+ls
+ls -lsh
+ll
+cd /bin
+ll
+ls
+sudo rnano echo
+cd
+sudo apt install git vim curl filezilla ssh
+git
+git show
+curl http://www.google.com
+curl -i http://www.google.com
+sudo apt install numix-*
+ls
+cd Téléchargements/
+sudo mv places/ /usr/share/themes/
+cd
+sudo apt install https://www.opendesktop.org/p/1178976/
+sudo apt install gnome-tweak-tool
+sudo apt install nautilus
+sudo nautilus
+mkdir test
+cd test
+nano test
+echo "<?php phpinfo(); ?> > index.php
+
+cat index.php
+echo "<?php phpinfo(); ?>" > index.php
+cat index.php 
+sudo apt install net-tools 
+ifconfig
+ls
+nano index.php
+vim index.php 
+cd test
+sudo nano index2~php
+nano index.PHP
+nano index.php
+vim index.php 
+cd test
+ls
+vim index.php 
+cd
+cd Téléchargements/
+ls
+sudo dpkg -i code_1.16.0-1504714880_amd64.deb 
+sudo apt install docker
+sudo apt update
+sudo apt install apt-transport-https ca-certificates curl software-properties-common
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+sudo apt-key fingerprint 0EBFCD88
+lsb_release -cs
+$ sudo add-apt-repository    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+   $(lsb_release -cs) \
+   stable"
+$ sudo add-apt-repository    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+   $(lsb_release -cs) \
+   stable"
+sudo add-apt-repository    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+   $(lsb_release -cs) \
+   stable"
+sudo apt install docker-ce
+sudo apt update
+sudo apt install docker-ce
+sudo apt-cache madison docker-ce
+docker
+sudo apt install docker.io
+lsb_release -cs
+sudo apt-get remove docker docker-engine docker.io
+sudo apt remove docker docker-engine docker.io
+uname -a
+sudo apt-get install     apt-transport-https     ca-certificates     curl     software-properties-common
+sudo apt install docker-ce
+sudo dpkg -i /Téléchargement/package.deb
+cd Téléchargements/
+ls
+sudo dpkg -i docker-ce_17.06.0~ce-0~ubuntu_amd64.deb 
+sudo docker run hello-world
+docker
+cd
+docker run --name huggy --rm -p 3000:3000 nanoninja/huggy
+sudo docker run --name huggy --rm -p 3000:3000 nanoninja/huggy
+docker pull nanoninja/huggy
+sudo docker pull nanoninja/huggy
+sudo docker run --name huggy --rm -p 3000:3000 nanoninja/huggy
+ifconfig
+cd Téléchargements/
+ls
+ls node-v8.4.0-linux-x64.tar.xz 
+cd node-v8.4.0-linux-x64/bin
+ls
+cd node-v8.4.0-linux-x64/
+ll
+cd bin
+./node
+cd
+echo ùPATH
+echo $ùPATH
+echo $PATH
+cd -
+pwd
+export PATH=$PATH:/home/ben/Téléchargements/node-v8.4.0-linux-x64/bin
+cd
+node
+ll
+cat bashrc
+cat .bashrc
+vim .profile
+cd Téléchargements/
+ls
+sudo mv node-v8.4.0-linux-x64 /usr/local/node_v8.4.0
+ll
+ll /usr/local
+vim .profile
+cd
+vim .profile
+cd usr
+cd /usr
+ls
+cd /local
+cd /locale
+ll
+cd /local
+cd /usr/local
+ll
+node
+cd
+source .profile
+node
+node -v
+echo $PATH
+terminator
+alias
+vim .bash_aliases
+alias
+three
+sudo apt install three
+three
+sudo apt install tree
+tree
+sudo apt install tree
+sudo apt --fix-broken install
+tree
+sudo apt install tree
+tree
+sudo useradd toto
+ll
+cat etc/passwrd
+man useradd
+sudo useradd toto passwd
+sudo useradd -m toto
+sudo passwd toto
+su toto
+su - toto
+su toto
+sudo userdel toto
+sudo useradd -m toto
+sudo passwd toto
+su toto
+cd test
+chmod o+w index.php 
+chmod 777 index.php 
+chmod o+w index.php 
+chmod 746 index.php 
+chmod 744 index.php 
+chmod o+wrx index.php 
+chmod ugo+wrx index.php 
+sudo addgroup ben aston
+sudo addgroup aston
+sudo addgroup ben aston
+groups
+groups ben
+groups ben aston
+groups aston
+node -v
+cd /usr/local
+ll
+sudo ln -s /usr/local/node_v8.4.0 /usr/local/node
+ll
+alias
+cd
+alias chat='
+alias chat='sudo ln -s /usr/local/node_v8.4.0 /usr/local/node'
+chat
+sudo docker ps -a
+sudo rm -f huggy
+chat
+sudo alias='sudo docker run --name huggy --rm -p 3000:3000 nanoninja/huggy'
+chat
+alias
+sudo alias chat='sudo docker run --name huggy --rm -p 3000:3000 nanoninja/huggy'
+alias chat='sudo docker run --name huggy --rm -p 3000:3000 nanoninja/huggy'
+chat
+vim .bash_aliases
+chat
+watch -n2 ll
+cd test
+ll
+watch -n2 ll
+watch -n2 ls
+watch -n2 ls -a
+watch -n2 ls -lah
+cd
+watch -n1 ping 10.3.101.79
+ping 10.3.101.79
+watch -n0.01 ping 10.3.101.79
+watch -n ping 10.3.101.79
+watch ping 10.3.101.79
+watch -n1 ping 10.3.101.79
+sudo apt install gaùe-data-packager
+sudo apt install game-data-packager
+cd
+ifconfig
+sudo apt install ngnix-
+sudo apt install ngnix-full mysql-server php-fpm -y
+sudo apt install ngnix-full mysql-server php-fpm 
+sudo apt upgrade && sudo apt update
+sudo apt install ngnix-full mysql-server php-fpm 
+sudo apt install nginx-full mysql-server php-fpm 
+mysql -uroot -p
+terminator
+whereis nginx
+cd etc
+cd /etc
+ll
+cd nginx
+ll
+cd 
+cd /usr/share
+ll
+cd nginx
+ll
+cd html
+ll
+vim index.html
+cd
+cd /etc
+cd nginx
+ll
+vim conf.d
+vim nginx.conf
+vim sites-available/
+vim sites-available/default
+sudo vim sites-available/default
+sudo mkdir -p Workspace/www
+sudo service nginx restart
+
+sudo vim sites-available/default
+sudo service nginx restart
+sudo php-fpm start
+sudo service nginx restart
+sudo vim sites-available/default
+sudo service nginx restart
+cd
+ll
+cd Workspace/www
+sudo mkdir -p Workspace/www
+cd Workspace/www
+touch index.php
+sudo touch index.php
+vim index.php 
+sudo vim index.php 
+nano index.php 
+sudo service nginx restart
+sudo vim sites-available/default
+cd -
+cd /etc
+ll
+cd nginx
+ll
+sudo vim sites-available/
+cd
+cd Workspace/www
+ll
+sudo vim sites-available/default
+cd 
+cd /etc/nginx
+cd sites-available/
+sudo vim default
+sudo restart nginx
+sudo service nginx restart
+sudo vim sites-available/default
+sudo vim default
+cd
+sudo vim /etc/php/7.0/fpm/php.ini 
+sudo service php7.0-fpm restart
+crontab -e
+cd tests
+cd /tests
+cd /test
+ll
+cd
+cd ben
+cd /ben
+cd /home
+ll
+cd ben
+cd /home/ben
+sudo mkdir tests/
+cd tests
+ll
+crontab -e
+watch -n2 ls
+cd ..
+cd test
+watch -n2 ls
+nano hello.log
+watch -n2 ls
+watch -n2 nano ./script2
+watch -n2 vim script2

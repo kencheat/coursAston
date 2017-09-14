@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "Mon premier script" 
+
+echo "tu aimes le PHP?"
+
+read reponse
+
+echo "ta réponse est : $reponse"
