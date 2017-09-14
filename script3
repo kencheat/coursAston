@@ -7,4 +7,4 @@ foreach (['toto','chuck','ben'] as $name) {
 	echo $name . "\n";
 }
 
-echo "on s'en fou";
+echo "on s'en fouuuuuuuuuuu";
